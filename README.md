@@ -131,50 +131,43 @@ npm run dev
 
 ### 🏠 Dashboard
 
-![dashboard](./dashboard.png)
-```
+![Dashboard](./dashboard.png)
 
 ---
 
-### ➕ Add Record Form
-![add_product](./add_product.png)
-```
+### ➕ Add Product
+
+![Add Product](./add_product.png)
 
 ---
 
-### 📋 Data Table
-!view_product(./view_product.png)
-```
+### 📋 View Products
+
+![View Products](./view_product.png)
 
 ---
 
+### ✏️ Update Product
 
-### 📋 Data Table
+![Update Product](./updated.png)
 
-![updated](./updated.png)
-```
-----
+---
 
 ### 🔍 Search Functionality
 
-Add your search screenshot here.
 ![Search](./search.png)
-```
 
 ---
 
----
+### 🗂️ Category Filter
 
-### 🔍 Filter Functionality
-![category](./category.png)
-```
+![Category Filter](./category.png)
+
 ---
 
 ### 📄 Pagination
 
-Add your pagination screenshot here.
-![view_product](./view_product.png)
-```
+![Pagination](./view_product.png)
 
 ---
 
