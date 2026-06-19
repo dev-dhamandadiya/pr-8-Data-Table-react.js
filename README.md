@@ -131,24 +131,18 @@ npm run dev
 
 ### 🏠 Dashboard
 
-
-```md
-![Dashboard](./dashboard.png)
+![dashboard](./dashboard.png)
 ```
 
 ---
 
 ### ➕ Add Record Form
-
-```md
 ![Add Record](./add_product.png)
 ```
 
 ---
 
 ### 📋 Data Table
-
-```md
 ![Data Table](./view_product.png)
 ```
 
@@ -157,8 +151,6 @@ npm run dev
 
 ### 📋 Data Table
 
-
-```md
 ![Data Table](./updated.png)
 ```
 ----
@@ -166,8 +158,6 @@ npm run dev
 ### 🔍 Search Functionality
 
 Add your search screenshot here.
-
-```md
 ![Search](./search.png)
 ```
 
@@ -176,8 +166,6 @@ Add your search screenshot here.
 ---
 
 ### 🔍 Filter Functionality
-
-```md
 ![Filter](./category.png)
 ```
 ---
@@ -185,8 +173,6 @@ Add your search screenshot here.
 ### 📄 Pagination
 
 Add your pagination screenshot here.
-
-```md
 ![Pagination](./view_product.png)
 ```
 
@@ -194,8 +180,6 @@ Add your pagination screenshot here.
 
 ## 🎥 Project Demonstration Video
 
-
-```md
 [▶ Watch Demo Video](https://drive.google.com/your-video-link)
 ```
 
