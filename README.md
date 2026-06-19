@@ -137,13 +137,13 @@ npm run dev
 ---
 
 ### ➕ Add Record Form
-![Add Record](./add_product.png)
+![add_product](./add_product.png)
 ```
 
 ---
 
 ### 📋 Data Table
-![Data Table](./view_product.png)
+!view_product(./view_product.png)
 ```
 
 ---
@@ -151,7 +151,7 @@ npm run dev
 
 ### 📋 Data Table
 
-![Data Table](./updated.png)
+![updated](./updated.png)
 ```
 ----
 
@@ -166,14 +166,14 @@ Add your search screenshot here.
 ---
 
 ### 🔍 Filter Functionality
-![Filter](./category.png)
+![category](./category.png)
 ```
 ---
 
 ### 📄 Pagination
 
 Add your pagination screenshot here.
-![Pagination](./view_product.png)
+![view_product](./view_product.png)
 ```
 
 ---
